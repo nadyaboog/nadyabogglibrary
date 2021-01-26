@@ -1,0 +1,17 @@
+{
+    "name": "nadyaboog/nadyabogglibrary",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Nadyaboog",
+            "email": "nadyabogdanova2001@yandex.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Bogdanova\\": ""
+        }
+    }
+}
